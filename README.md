@@ -1,4 +1,4 @@
-# Ultra Girl Ether
+# Ultra Girl : Ether
 
 A modified version of Ultra Girl featuring increased difficulty and new gameplay mechanics.
 
